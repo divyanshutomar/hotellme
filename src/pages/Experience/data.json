@@ -1,0 +1,87 @@
+[
+    {
+        "image": "https://www.inspiredbicycles.com/images/custom/photos/S_fabio_wibmer_profile_2017_2.jpg",
+        "name": "Biking with Fabio",
+        "description": "City tour organized by RedBull — Fabio Wibmer on his trail bike will show you secret spots in Salzburg where you can freely ride and learn some tricks.",
+        "time": "Sunday 10:30 h",
+        "duration": "2 h",
+        "location": "Kapuzinerkloster",
+        "slug": "bikingwithfabio"
+    },
+    {
+        "image": "https://www.radsport-wagner.at/wp-content/uploads/2018/01/34484464_1948928141798491_1870929256406581248_n.jpg",
+        "name": "Road Bike Ride",
+        "description": "Guided racing bike tours for women and men with qualified touring guide in Salzburg and surrounding area for beginners (rookies) and advanced (advanced). The tours are free, costs for travel and food are up to you. We look forward to many beautiful hours in the road bike saddle with you!",
+        "time": "Saturday 9:00",
+        "duration": "1-2 h",
+        "location": "Mozartplatz",
+        "slug": "roadbikeride"
+    },
+    {
+        "image": "https://www.ucc-sportevent.com/wp-content/uploads/inovphoto-mega-dimanche-basse-def-11-1024x683.jpg",
+        "name": "Mini MEGAVALANCHE",
+        "description": "Megavalanche or “Mega” is a downhill mountain bike mass-start race held annually at the Alpe D’Huez ski resort in the French Alps since 1995. Starting from a glacier, through rooty forests, flat climbing to the bottom of the valley, the course is designed to slow the riders down around tight curves and the width of the glacier at the race's start line allows the riders to spread out. Could you imagine doing the same, but just around the corner? Bring your enduro/downhill MTB and join us at our mini-MEGA next to Salzburg city, where even MTB amateurs can feel the emotion of biking on snow and ending up in the flat plains of Salzburgerland.",
+        "time": "<4 h",
+        "duration": "Saturday 10:00",
+        "location": "Gaisberg peak",
+        "slug": "minimega"
+    },
+    {
+        "image": "https://cdn.austria.info/media/17083/thumbnails/salzburg-erkunden-2--tourismus-salzburg--o.jpg.3102556.jpg",
+        "name": "Pedaling the bike",
+        "description": "From the village square in Bergheim, ride along the banks of the Salzach to Mozart Square. Passing the Residenz, cathedral square, St. Peter's, the Festspielhaus and Mönchsberg funicular, you will come to the quay. At the Müllner Steg, cross the Salzach, continuing to the Kurhaus and through the Kurgarten grounds. Now on the Linzer Gasse, ride to St. Sebastian's Cemetery, then continue to Dreifaltigkeitsgasse. Finally, and no matter what the season, enjoy beautiful Mirabell Gardens and Schloss Mirabell, today the seat of the mayor of Salzburg. Now back on the River Salzach, it will be time to return to Bergheim.",
+        "time": "Monday to Friday at 13:30 h",
+        "duration": "1:30 h",
+        "location": "Bergheimplatz",
+        "slug": "pedalingthebike"
+    },
+    {
+        "image": "https://www.salzburg.info/06-reiseinfos/0601-anreise-und-verkehr/Radfahren/image-thumb__37966__teaser--topic-large/Radfahren%20Salzburg%20Muellnersteg%20Tauernradweg_Header~-~767w.jpeg",
+        "name": "Instagrammable Salzburg Cycling Path",
+        "description": "For those beautiful Salzburg photos, we came up with a special idea: Grab yourself a bicycle and a smartphone, then discover the very best photo spots outside the city center. In that way, you can combine nature, exercise and picture-perfect views of the historical district all at the same time.",
+        "time": "Everyday 9:30",
+        "duration": "2:30 h",
+        "location": "Müllner Steg",
+        "slug": "instagrammablesalzburg"
+    },
+    {
+        "image": "https://img2.oastatic.com/img2/22908692/max/t.jpg",
+        "name": "Bikepark Leogang",
+        "description": "Every aspect of bike sport is covered – for downhillers, freeriders and mountain bikers! Grab your bike, board the 8-passenger Asitzbahn or 10-passenger Steinbergbahn at Asitz and head straight onto epic routes at the Bikepark Leogang. If necessary, you can hire a bike in advance at the valley station or ask a guide for the tips you need to get shredding. Bikepark Leogang is one of the first and largest bike parks in Europe and will be hosting the UCI Mountain Bike Downhill World Championships for the second time from 4 to 6th September 2020  – if you’re looking to take on demanding world championship courses, then you’ve come to the right place! Children and beginners are also welcome to try completing their first jumps in the Riders Playground area.",
+        "open_times": "09:00 - 16:30 h",
+        "number_trails": "15 trails",
+        "slug": "bikeparkleogang"
+    },
+    {
+        "image": "https://www.saalbach.com/fotos-marketing/sommer/bike/enduro-1/image-thumb__156162__box-img_auto_527a629d38262afa5d0c43b5d833fd6a/saalbach-sommer-bike-enduro-9-.jpeg",
+        "name": "Saalbach Hinterglemm",
+        "description": "Surrounded by the Pinzgau Grass Mountains and the Kitzbühel Alps, Saalbach Hinterglemm has been the leading mountain bike region in Austria for many years now. A great route network with over 400 km of bike trails for all levels of difficulty leaves nothing to be desired. The mountain world can be easily explored on marked routes, including the neighbouring region of Leogang which is included in the BIG-5 Bike Challenge. Up to six modern gondola lifts carrying JOKER CARD holders with their bikes up the mountain for free twice a day complement the offer.",
+        "open_times": "09:00 - 16:30 h",
+        "number_trails": "13 trails",
+        "slug": "saalbachhinterglemm"
+    },
+    {
+        "image": "https://www.bikepark-info.com/wp-content/uploads/2018/07/at-wa-wallride-wagrain.jpg",
+        "name": "Bikepark Wagrain",
+        "description": "Speed, action and adrenaline: All those who are in for the thrill will find it at Bikepark Wagrain. The MTB downhill park at the Flying Mozart cable car is open from June to October and has many diverse trails to offer for beginners as well as for experienced downhill bikers and freeriders.",
+        "open_times": "09:00 - 17:00 h",
+        "number_trails": "9 trails",
+        "slug": "bikeparkwagrain"
+    },
+    {
+        "image": "https://www.hochkoenig.at/assets/images/bildergalerie/sommer/bike-gallery/bikeurlaub_hochkoenig_sonnenuntergang-klein.jpg",
+        "name": "Hochkönig Bikepark",
+        "description": "What a perfect biking experience! Mountain biking in the Hochkönig Region is the perfect adventure vacation on two wheels. Here wait more than 20 wonderful tours and the Flow One Flow Trail on motivated bikers. Biking without luggage? Very easy on the Königstour. The luggage is already waiting in the next location. E-bikes are on the rise. But one is well positioned in the world's first region with e-bike charging stations on the mountain. The Hochkönig Card take both mountain bikers and their bikes free up with the cable car where the bike guides awaits you to the guided tour. Let's go to the biking paradise Hochkönig!",
+        "open_times": "08:00 - 17:00 h",
+        "number_trails": "21 trails",
+        "slug": "hochkoenigbikepark"
+    },
+    {
+        "image": "https://www.kitzsteinhorn.at/bilder/kitzsteinhorn/sommer/mountainbike/image-thumb__152__content/HV9A6806.webp",
+        "name": "Freeride Kitzsteinhorn Bikepark",
+        "description": "Mountain bikers will find a real paradise at the Kitzsteinhorn in Zell am See-Kaprun. Whether very fit uphillers, E-bikers or adrenalin-addicted freeriders – the Kitzsteinhorn offers perfect trails and routes designed for all bike sport variations. The freeride trails are open for all downhillers from mid-June to mid-September. From high alpine to natural, three trails with a total of 12 kilometres and 1.500 altitude metres demand stamina from freeriders.",
+        "open_times": "08:15 to 16:30 h",
+        "number_trails": "3 freeride trails",
+        "slug": "freeridebikepark"
+    }
+]

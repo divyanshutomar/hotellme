@@ -1,0 +1,62 @@
+[
+    {
+        "sectionName": "Bike events and tours",
+        "items": [
+            {
+                "image": "https://www.inspiredbicycles.com/images/custom/photos/S_fabio_wibmer_profile_2017_2.jpg",
+                "name": "Biking with Fabio",
+                "slug": "bikingwithfabio"
+            },
+            {
+                "image": "https://www.radsport-wagner.at/wp-content/uploads/2018/01/34484464_1948928141798491_1870929256406581248_n.jpg",
+                "name": "Road Bike Ride",
+                "slug": "roadbikeride"
+            },
+            {
+                "image": "https://www.ucc-sportevent.com/wp-content/uploads/inovphoto-mega-dimanche-basse-def-11-1024x683.jpg",
+                "name": "Mini MEGAVALANCHE",
+                "slug": "minimega"
+            },
+            {
+                "image": "https://cdn.austria.info/media/17083/thumbnails/salzburg-erkunden-2--tourismus-salzburg--o.jpg.3102556.jpg",
+                "name": "Pedaling the bike",
+                "slug": "pedalingthebike"
+            },
+            {
+                "image": "https://www.salzburg.info/06-reiseinfos/0601-anreise-und-verkehr/Radfahren/image-thumb__37966__teaser--topic-large/Radfahren%20Salzburg%20Muellnersteg%20Tauernradweg_Header~-~767w.jpeg",
+                "name": "Instagrammable Salzburg Cycling Path",
+                "slug": "instagrammablesalzburg"
+            }
+        ]
+    },
+    {
+        "sectionName": "Bikeparks",
+        "items": [
+            {
+                "image": "https://img2.oastatic.com/img2/22908692/max/t.jpg",
+                "name": "Bikepark Leogang",
+                "slug": "bikeparkleogang"
+            },
+            {
+                "image": "https://www.saalbach.com/fotos-marketing/sommer/bike/enduro-1/image-thumb__156162__box-img_auto_527a629d38262afa5d0c43b5d833fd6a/saalbach-sommer-bike-enduro-9-.jpeg",
+                "name": "Saalbach Hinterglemm",
+                "slug": "saalbachhinterglemm"
+            },
+            {
+                "image": "https://www.bikepark-info.com/wp-content/uploads/2018/07/at-wa-wallride-wagrain.jpg",
+                "name": "Bikepark Wagrain",
+                "slug": "bikeparkwagrain"
+            },
+            {
+                "image": "https://www.hochkoenig.at/assets/images/bildergalerie/sommer/bike-gallery/bikeurlaub_hochkoenig_sonnenuntergang-klein.jpg",
+                "name": "Hochkönig Bikepark",
+                "slug": "hochkoenigbikepark"
+            },
+            {
+                "image": "https://www.kitzsteinhorn.at/bilder/kitzsteinhorn/sommer/mountainbike/image-thumb__152__content/HV9A6806.webp",
+                "name": "Freeride Kitzsteinhorn Bikepark",
+                "slug": "freeridebikepark"
+            }
+        ]
+    }
+]
